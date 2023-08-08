@@ -52,7 +52,7 @@ app.post('/', (req, res) => {
                             }
 
                             td, th {
-                                padding: 10px;
+                                padding: 10px 30px;
                                 background: lightblue;
                             }
 
